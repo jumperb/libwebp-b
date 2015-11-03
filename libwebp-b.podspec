@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "libwebp"
-  s.version      = "1.0.1"
+  s.version      = "0.4.3"
   s.summary      = "A short description of libwebp."
 
   s.description  = <<-DESC
@@ -17,9 +17,9 @@ Pod::Spec.new do |s|
 
   s.license      = "Copyright"
   
-  s.author             = { "zct" => "zhangchutian@camera360.com" }
+  s.author             = { "jumperb" => "jumperb@gmail.com" }
 
-  s.source       = { :git => "git@192.168.1.33:webp.git"}
+  s.source       = { :git => "git@github.com:zhangchutian/libwebp-b.git"}
 
   s.source_files  = 'Classes/**/*.{h,m,a}'
   
