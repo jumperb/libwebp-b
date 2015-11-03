@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   
   s.author             = { "jumperb" => "jumperb@gmail.com" }
 
-  s.source       = { :git => "git@github.com:zhangchutian/libwebp-b.git"}
+  s.source       = { :git => "git@github.com:jumperb/libwebp-b.git"}
 
   s.source_files  = 'Classes/**/*.{h,m,a}'
   
