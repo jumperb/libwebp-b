@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
 
-  s.name         = "libwebp"
+  s.name         = "libwebp-b"
   s.version      = "0.4.3"
-  s.summary      = "A short description of libwebp."
+  s.summary      = "A short description of libwebp-b."
 
   s.description  = <<-DESC
-                   A longer description of libwebp in Markdown format.
+                   A longer description of libwebp-b in Markdown format.
 
                    * Think: Why did you write this? What is the focus? What does it do?
                    * CocoaPods will be using this to generate tags, and improve search results.
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
                    * Finally, don't worry about the indent, CocoaPods strips it!
                    DESC
 
-  s.homepage     = "http://EXAMPLE/libwebp"
+  s.homepage     = "http://EXAMPLE/libwebp-b"
 
   s.license      = "Copyright"
   
