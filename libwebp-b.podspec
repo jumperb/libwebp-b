@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.license      = "Copyright"
   
-  s.author             = { "jumperb" => "jumperb@gmail.com" }
+  s.author             = { "jumperb" => "zhangchutian_05@163.com" }
 
   s.source       = { :git => "https://github.com/jumperb/libwebp-b.git", :tag => s.version.to_s}
 
